@@ -1,0 +1,13 @@
+{
+  "server": {
+    "port": "4000"
+  },
+  "databaseConfig": {
+    "mysql": {
+      "host": "localhost",
+      "user": "codemymobile",
+      "password": "Password_1",
+      "database": "codemymobile_db"
+    }
+  }
+}
