@@ -8,6 +8,12 @@
 
          ii. npm test
 
+<<<<<<< HEAD
         iii. npm start 
 
         
+=======
+        iii. npm start
+        
+  ===========
+>>>>>>> main
