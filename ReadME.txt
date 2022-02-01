@@ -7,13 +7,5 @@
           i. npm i
 
          ii. npm test
-
-<<<<<<< HEAD
-        iii. npm start 
-
-        
-=======
-        iii. npm start
-        
-  ===========
->>>>>>> main
+         
+         iii. npm start
